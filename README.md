@@ -5,7 +5,7 @@
   <p>Jangan ragu untuk menjelajahi kodenya, dan jika Anda punya pertanyaan atau saran, silakan buka <a href="#">**issue baru**</a>.</p>
 </div>
 <div align="center">
-  <img src=https://imgur.com/a/Tn3VtVd althttps://imgur.com/a/Tn3VtVd
+  <img src=https://imgur.com/a/Tn3VtVd althMIZA TAWAKASHI
   <h1>Nama Proyek</h1>
   <p>Deskripsi singkat proyek Anda. Apa yang dilakukannya dan mengapa itu penting?</p>
 
